@@ -1,4 +1,7 @@
 //Read theory from GFG
+//O(1) pushback complexity : inserts at end of vector
+//0(1) v.size()
+
 
 //#include<iostream>
 //#include<vector>
